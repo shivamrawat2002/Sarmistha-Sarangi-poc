@@ -1,0 +1,27 @@
+﻿=== OUTPUT ===
+[
+  {
+    "title": "Select an AI Specialization Track",
+    "hashtag": "decision",
+    "body": "Evaluate the three core tracksùML Engineering, AI Engineering, and Research Engineeringùand commit to one targeted role.",
+    "related": "transcript",
+    "context": "The 2026 AI Career Roadmap emphasizes choosing a single target track rather than studying all AI roles simultaneously, which leads to burnout and lack of depth."
+  },
+  {
+    "title": "Audit Current Skills Against Prerequisites",
+    "hashtag": "review",
+    "body": "Assess current proficiency in Python, SQL, targeted AI mathematics, developer tools, and cloud basics to pinpoint foundational skill gaps.",
+    "related": "transcript",
+    "context": "The roadmap outlines a 2-3 month foundational phase covering Python modularity, SQL query optimization, linear algebra, calculus, probability, Git, and cloud fundamentals as mandatory prerequisites before ML."
+  },
+  {
+    "title": "Create a Sequenced AI Learning Roadmap",
+    "hashtag": "planning",
+    "body": "Draft a structured study plan following the core sequence: Prerequisites, Machine Learning, Data Modality Primer, Deep Learning with PyTorch, and your chosen Specialization.",
+    "related": "transcript",
+    "context": "The video outlines a phased roadmap aimed at achieving complete practical mastery of AI by late 2026 through focused step-by-step milestones."
+  }
+]
+
+=== VALIDATION ===
+OK
